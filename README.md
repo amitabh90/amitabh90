@@ -22,10 +22,9 @@
   - Linkedin : [Amitabh Das](https://www.linkedin.com/in/amitabhd/)
 - 😄 Pronouns: ...
    no good work goes unpunished
-- ⚡ Fun fact: ...
-  - bit lazy
+- ⚡ Fun fact: ...bit lazy
 
-------------------------------------------------------------------------------------------
+--------------------------------------------------------------------
 <!--
 **amitabh90/amitabh90** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
