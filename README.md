@@ -9,7 +9,7 @@
    - GitOps
    - Azure Kubernetes Service
 - 🌱 I’m currently learning ...
-   - Linux for my LFCS exam
+   - Linux for my LFCS exam -- completed successfully 
    - Kubernetes for CKA exam
    - Azure architecture
 - 👯 I’m looking to collaborate on ...
