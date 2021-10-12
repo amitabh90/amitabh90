@@ -11,13 +11,17 @@
 - 🌱 I’m currently learning ...
    - Linux for my LFCS exam -- completed successfully 
    - Kubernetes for CKA exam
-   - Azure architecture
+   - Azure architecture -- pass the exam Az303
 - 👯 I’m looking to collaborate on ...
    - Any devlopement projects on Azure infrastructure
+   - Bug fix for any issues on Azure IaC
 - 🤔 I’m looking for help with ...
-   - Learning C# and python
+   - Learning YAML,JSON,C# and python
+   - End to end Automation
 - 💬 Ask me about ...
   - Looking for new ideas
+  - I love Indian food
+  - Quick learner
 - 📫 How to reach me: ...
   - Linkedin : [Amitabh Das](https://www.linkedin.com/in/amitabhd/)
 - 😄 Pronouns: ...
