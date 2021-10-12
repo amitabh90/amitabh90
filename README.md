@@ -1,6 +1,6 @@
 ### Hi I am Amitabh Das 👋
 
-#### I am an IT professional, working on different cool technology like cloud, devops, virtualization, networks. On my free time I love to build small projects and hands-on lab for my self-learning. I am not a smart computer programmer but always try to write a piece of code by gathering information from different sources. I like to finish my day by learning at least one new thing about tech, life, investing etc.
+#### An IT professional, working on different cool technology like cloud, Kubernetes, devops, virtualization, networks. On my free time I love to build small projects and hands-on lab for my self-learning. I am not a smart computer programmer but always try to write a piece of code by gathering information from different sources. I like to finish my day by learning at least one new thing about tech, life, investing etc.
 
 ------------------------------------------------------------------------------------------
 
@@ -8,13 +8,17 @@
    - Azure DevOps YAML pipeline
    - GitOps
    - Azure Kubernetes Service
+   - Istio
+   - Certificate Manager
+   - Argo rollout
 - 🌱 I’m currently learning ...
    - Linux for my LFCS exam -- completed successfully 
-   - Kubernetes for CKA exam
+   - Kubernetes for CKA exam -- work in progress
    - Azure architecture -- pass the exam Az303
 - 👯 I’m looking to collaborate on ...
    - Any devlopement projects on Azure infrastructure
    - Bug fix for any issues on Azure IaC
+   - IaC template enhancement
 - 🤔 I’m looking for help with ...
    - Learning YAML,JSON,C# and python
    - End to end Automation
