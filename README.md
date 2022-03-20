@@ -13,8 +13,11 @@
    - Argo rollout
 - 🌱 I’m currently learning ...
    - Linux for my LFCS exam -- completed successfully 
-   - Kubernetes for CKA exam -- work in progress
+   - Kubernetes CKA exam -- completed successfully
+   - CKAD exam -- completed successfully
+   - CKS -- work in progress
    - Azure architecture -- pass the exam Az303
+   - Az305 -- work in progress
 - 👯 I’m looking to collaborate on ...
    - Any devlopement projects on Azure infrastructure
    - Bug fix for any issues on Azure IaC
