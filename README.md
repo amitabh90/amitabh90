@@ -30,7 +30,7 @@
   - I love Indian food
   - Quick learner
 - 📫 How to reach me: ...
-  - Linkedin : [Amitabh Das](https://www.linkedin.com/in/amitabhd/)
+  - Linkedin : [Amitabh Das](https://www.linkedin.com/in/amitabh90/)
 - 😄 Pronouns: ...
    no good work goes unpunished
 - ⚡ Fun fact: ...bit lazy
