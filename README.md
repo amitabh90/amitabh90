@@ -1,17 +1,53 @@
-### Hi I am Amitabh Das 👋
+### Hi I am Amitabh 👋
 
-#### An IT professional, working on different cool technology like cloud, Kubernetes, devops, virtualization, networks. On my free time I love to build small projects and hands-on lab for my self-learning. I am not a smart computer programmer but always try to write a piece of code by gathering information from different sources. I like to finish my day by learning at least one new thing about tech, life, investing etc.
+#### 🌟 Site Reliability Engineer & Cloud Architect | Expert in Scalable, Reliable, and High-Performing Systems Design
+
+As a Certified professional in Azure, Kubernetes, Linux, and Infrastructure as Code (IaC), I bring over 13 years of experience in crafting innovative solutions that combine scalability, reliability, and business-driven results. My mission is to bridge the gap between development and operations, ensuring seamless system performance, minimal downtime, and enhanced user experiences.
+
+### What I Do Best
+I specialize in designing and implementing resilient, fault-tolerant architectures that enable organizations to meet their reliability goals while driving operational efficiency. My expertise includes:
+
+#### System Scalability & Resilience: 
+Building cloud-native and hybrid infrastructures that handle high-traffic loads with ease while minimizing failure risks.
+#### Automation & Efficiency: 
+Streamlining operations through Infrastructure as Code (IaC), CI/CD pipelines, and automated monitoring systems to reduce manual intervention and ensure consistent performance.
+#### Cloud Optimization: 
+Leveraging Azure, Kubernetes, and other cloud platforms to optimize resource usage, cut costs, and align infrastructure with business needs.
+#### Proactive Reliability: 
+Implementing end-to-end monitoring, incident management systems, and establishing SLOs/SLAs to proactively identify and resolve issues before they impact users.
+#### Certifications That Back My Expertise
+- Microsoft Azure Certified
+- Linux Foundation Certified
+- Certified Kubernetes Administrator (CKA)
+- Infrastructure as Code Specialist (Terraform, Ansible)
+#### Key Achievements
+- Successfully delivered 10+ large-scale projects, including microservices migrations, Kubernetes implementations, and cloud modernization initiatives.
+- Designed and deployed end-to-end monitoring and alerting solutions to improve uptime and reduce incident response time.
+- Streamlined DevOps pipelines for faster, more reliable software delivery, enabling significant reductions in time-to-market.
+- Partnered with cross-functional teams to ensure system designs aligned with long-term business strategies and goals.
+#### Why I’m Passionate About SRE & Cloud Architecture
+I believe the future of technology lies in creating systems that are not just reliable and scalable but also aligned with business impact. Whether it’s empowering teams to adopt cloud-native practices or automating repetitive processes to allow innovation, I thrive on solving complex challenges that add tangible value.
+
+Let’s Collaborate!
+If you’re looking to:
+- Build highly reliable and scalable systems,
+- Reduce downtime and improve operational efficiency, or
+- Optimize your cloud and automation strategies...
+  
+I’d love to connect and discuss how we can achieve these goals together!
 
 ------------------------------------------------------------------------------------------
 
 - 🔭 I’m currently working on ...
-   - Azure DevOps YAML pipeline
+   - AWS serverless 
    - GitOps
    - Azure Kubernetes Service
    - Istio
    - Certificate Manager
    - Argo rollout
 - 🌱 I’m currently learning ...
+   - Helm
+   - SRE
    - Linux for my LFCS exam -- completed successfully 
    - Kubernetes CKA exam -- completed successfully
    - CKAD exam -- completed successfully
