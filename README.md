@@ -5,7 +5,9 @@
 As a Certified professional in Azure, Kubernetes, Linux, and Infrastructure as Code (IaC), I bring over 13 years of experience in crafting innovative solutions that combine scalability, reliability, and business-driven results. My mission is to bridge the gap between development and operations, ensuring seamless system performance, minimal downtime, and enhanced user experiences.
 
 ### What I Do Best
-I specialize in designing and implementing resilient, fault-tolerant architectures that enable organizations to meet their reliability goals while driving operational efficiency. My expertise includes:
+I specialize in designing and implementing resilient, fault-tolerant architectures that enable organizations to meet their reliability goals while driving operational efficiency. 
+
+My expertise includes:
 
 #### System Scalability & Resilience: 
 Building cloud-native and hybrid infrastructures that handle high-traffic loads with ease while minimizing failure risks.
