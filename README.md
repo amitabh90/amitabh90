@@ -21,9 +21,11 @@ Implementing end-to-end monitoring, incident management systems, and establishin
 - Microsoft Azure Certified
 - Linux Foundation Certified
 - Certified Kubernetes Administrator (CKA)
+- Certified Kubernetes Application developer (CKAD)
 - Infrastructure as Code Specialist (Terraform, Ansible)
+- ITIL V3 Foundation
 #### Key Achievements
-- Successfully delivered 10+ large-scale projects, including microservices migrations, Kubernetes implementations, and cloud modernization initiatives.
+- Successfully delivered 20+ large-scale projects, including microservices migrations, Kubernetes implementations, and cloud modernization initiatives.
 - Designed and deployed end-to-end monitoring and alerting solutions to improve uptime and reduce incident response time.
 - Streamlined DevOps pipelines for faster, more reliable software delivery, enabling significant reductions in time-to-market.
 - Partnered with cross-functional teams to ensure system designs aligned with long-term business strategies and goals.
@@ -41,12 +43,14 @@ I’d love to connect and discuss how we can achieve these goals together!
 ------------------------------------------------------------------------------------------
 
 - 🔭 I’m currently working on ...
-   - AWS serverless 
+   - AWS serverless
+   - EKS
    - GitOps
    - Azure Kubernetes Service
    - Istio
    - Certificate Manager
    - Argo rollout
+   - Argo CD
 - 🌱 I’m currently learning ...
    - Helm
    - SRE
@@ -54,10 +58,8 @@ I’d love to connect and discuss how we can achieve these goals together!
    - Kubernetes CKA exam -- completed successfully
    - CKAD exam -- completed successfully
    - CKS -- work in progress
-   - Azure architecture -- pass the exam Az303
-   - Az305 -- work in progress
 - 👯 I’m looking to collaborate on ...
-   - Any devlopement projects on Azure infrastructure
+   - Any devlopement projects on Open Source
    - Bug fix for any issues on Azure IaC
    - IaC template enhancement
 - 🤔 I’m looking for help with ...
